@@ -60,7 +60,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 
 
-### Results/Findings
+### Conclusions
+'The dashboard effectively captures the sales trends of the coffee company from 2019 to 2022.'
+Analysis of total sales over time indicates a consistent upward trend in revenue until 2021, with a notable decline in sales in 2022.
+The timeline feature allows for easy visualization and comparison of sales performance across different years.
+Sales by country reveal that the United States is the leading market, and sales have drastically fallen across all countries from 2021 to 2022.
+Top 5 customers analysis identifies key clients contributing significantly to the company's revenue, with Allis Wilmore emerging as the top buyer.
+
 
 
 
