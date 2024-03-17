@@ -19,7 +19,7 @@ Sales Data: The primary dataset used for this analysis is the "Coffee_Orders_Dat
 
 ### Tools
 
-- Excel - Data Cleaning
+- Excel - Data Cleaning, Analtyis and Dashboard/Report.
   - [Download here](https://microsoft.com)
 
 ### Data Cleaning/Preparation
