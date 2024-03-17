@@ -1,5 +1,5 @@
 # Coffee-Sales-Dashboard
-![ ](data.jpeg)
+![ ](Images/data.jpeg)
 
 ## Table of Contents
 
@@ -40,8 +40,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Box Plots Of various analysis
 
+#### Total Sales Over Time
 ![Total Sales Over Time](Images/Barplot_Salesbytime.png)
+
+#### Sales By Country
 ![Sales By Country](Images/Barplot_SalesbyCountry.jpg)
+
+#### Top 5 Customers
 ![Top 5 Customers](Images/Barplot_Top5Customers.jpg)
 
 
