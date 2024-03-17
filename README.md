@@ -1,4 +1,5 @@
 # Coffee-Sales-Dashboard
+![ ](data.jpeg)
 
 ## Table of Contents
 
@@ -10,9 +11,6 @@
 ---
 
 This data analysis project aims to provide insights into the sales performance of a coffee company over the time span from 2019-2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
-
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
-
 
 ### Data Sources
 
