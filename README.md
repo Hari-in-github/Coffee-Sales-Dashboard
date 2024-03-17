@@ -40,6 +40,10 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Box Plots Of various analysis
 
+![ ](Images/Barplot_Salesbytime.png)
+![ ](Images/Barplot_SalesbyCountry.jpg)
+![ ](Images/Barplot_Top5Customers.jpg)
+
 
 ### Excel Dashboard
 
