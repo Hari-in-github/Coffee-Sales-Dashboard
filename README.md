@@ -10,7 +10,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of a coffee company over the time span from 2019-2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+The Coffee Sales Data Analysis Project aims to provide insights into the sales performance of a coffee company spanning from 2019 to 2022. By analyzing various aspects of the sales data, our objective is to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance."
 
 ### Data Sources
 
