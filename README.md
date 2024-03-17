@@ -15,7 +15,7 @@ The Coffee Sales Data Analysis Project aims to provide insights into the sales p
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about customers, prodcuts and sales of the company.
-![Click here for dataset ](Coffee_Orders_Data.xlsx)
+![Click here for dataset ](https://github.com/Hari-in-github/Coffee-Sales-Dashboard/blob/main/Coffee_Orders_Data.xlsx)
 
 ### Tools
 
