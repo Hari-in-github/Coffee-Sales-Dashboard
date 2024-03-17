@@ -52,6 +52,11 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Excel Dashboard
 
+![Coffee Dashboard](Images/Coffee_Dashboard.jpg)
+
+
+[Click to download dashboard](https://github.com/Hari-in-github/Coffee-Sales-Dashboard/blob/main/Coffee_Dashboard.xlsx)
+
 
 
 
