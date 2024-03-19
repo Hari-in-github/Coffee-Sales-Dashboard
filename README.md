@@ -38,6 +38,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What are the peak sales periods?
 - Which countries give most of the sales?
 
+### Excel Dashboard
+
+![Coffee Dashboard](Images/Coffee_Dashboard.png)
+
+
+[Click to download dashboard](https://github.com/Hari-in-github/Coffee-Sales-Dashboard/blob/main/Coffee_Dashboard.xlsx)
+
 ### Box Plots Of various analysis
 
 #### Total Sales Over Time
@@ -48,17 +55,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 #### Top 5 Customers
 ![Top 5 Customers](Images/Barplot_Top5Customers.jpg)
-
-
-### Excel Dashboard
-
-![Coffee Dashboard](Images/Coffee_Dashboard.png)
-
-
-[Click to download dashboard](https://github.com/Hari-in-github/Coffee-Sales-Dashboard/blob/main/Coffee_Dashboard.xlsx)
-
-
-
 
 ### Conclusions
 - The dashboard effectively captures the sales trends of the coffee company from 2019 to 2022.
