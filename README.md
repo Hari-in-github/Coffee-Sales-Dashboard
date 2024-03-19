@@ -48,13 +48,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 ### Box Plots Of various analysis
 
 #### Total Sales Over Time
-![Total Sales Over Time](Images/Barplot_Salesbytime.png)
+![Total Sales Over Time](Images/Barplot_SalesbyTime.png)
 
 #### Sales By Country
-![Sales By Country](Images/Barplot_SalesbyCountry.jpg)
+![Sales By Country](Images/Barplot_SalesByCountry.jpg)
 
 #### Top 5 Customers
-![Top 5 Customers](Images/Barplot_Top5Customers.jpg)
+![Top 5 Customers](Images/Barplot_Top5_Customers.jpg)
 
 ### Conclusions
 - The dashboard effectively captures the sales trends of the coffee company from 2019 to 2022.
